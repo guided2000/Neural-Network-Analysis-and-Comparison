@@ -23,7 +23,7 @@ This project demonstrates how to build, train, and evaluate neural networks for 
 ### How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/neural-network-analysis.git
+   git clone https://github.com/guided2000/neural-network-analysis.git
    ```  
 2. Navigate to the project directory and open the Jupyter Notebook:  
    ```bash
